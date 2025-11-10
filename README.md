@@ -1,2 +1,2 @@
 # AIMaster_5642DeepLearningW3
-Week3 Project
+Week3 Deep Learning Project
